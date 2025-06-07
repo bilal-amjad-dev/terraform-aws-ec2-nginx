@@ -1,5 +1,7 @@
 This guide covers:
+
 👉 create ec2 using terraform 
+
 👉 create security group 
 
 Changes: 
