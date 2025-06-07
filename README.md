@@ -1,8 +1,9 @@
 This guide covers:
 
-👉 create ec2 using terraform 
 
-👉 create security group 
+👉 create security group using terraform
+
+👉 create ec2 using terraform 
 
 Changes: 
 - paste your access key
