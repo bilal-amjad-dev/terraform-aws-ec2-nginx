@@ -12,6 +12,9 @@ Changes:
 
 Note: My region is 'ap-south-1a', so you can choose of your choice.
 
+We have open 2 ports of security group, 22 for ssh and 80 for nginx. 
+
+
 
 
   
