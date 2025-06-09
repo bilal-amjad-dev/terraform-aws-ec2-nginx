@@ -10,6 +10,12 @@ Changes:
 - paste your secret key
 - paste your ami
 
+
+Prerequisites:
+- access key and secret key
+- terraform installed
+- vs code
+
 Note: My region is 'ap-south-1a', so you can choose of your choice.
 
 We have open 2 ports of security group, 22 for ssh and 80 for nginx. 
